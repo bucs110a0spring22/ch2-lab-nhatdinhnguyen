@@ -8,7 +8,7 @@
 _Replace anything surrounded by the `< >` symbols._
 
 ## SUMMARY:
-Part A lists weeks, classes, tuition, and computes the cost per week and cost per class. Part B chooses a random index within a list and prints it.
+Part A lists weeks, classes, tuition, and computes the cost per week and cost per class and lists that as well. Part B chooses a random index within a list and prints it.
 
 ## GRACE DAYS
 Grace days used for this assignment: 0
